@@ -2,7 +2,7 @@
 
 Agentům tajné služby se podařil získat 3D sken hlavy Donalda Trumpa (Dále jen DT)
 a Kim Čong Una (dále jen KČU). Vaším úkolem je z mračna bodů zrekonstruovat
-a vyexportovat 3D modely DT a KČU. Výsledné modely nahrajte do repozitáře,
+a vyexportovat **vyhlazené** 3D modely DT a KČU. Výsledné modely nahrajte do repozitáře,
 který vytvoříte na odkaze níže. (1 bod)
 
 https://classroom.github.com/a/Cxs-t2K4
