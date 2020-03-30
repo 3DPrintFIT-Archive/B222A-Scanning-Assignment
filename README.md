@@ -5,7 +5,7 @@ a Kim Čong Una (dále jen KČU). Vaším úkolem je z mračna bodů zrekonstruo
 a vyexportovat **vyhlazené** 3D modely DT a KČU. Výsledné modely nahrajte do repozitáře,
 který vytvoříte na odkaze níže. (1 bod)
 
-https://classroom.github.com/a/M4DkcUI2
+https://classroom.github.com/a/-NUmrKaV
 
 Následně se pokuste modely na sebe napasovat tak, aby se dala měřit vzájemná podobnost.
 Měření provádějte obousměrně. Tak aby jste měli barevné spektrum na hlavě DT a poté i na hlavě KČU.
