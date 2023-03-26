@@ -1,5 +1,8 @@
 # Scanning Assignment
 
+Před odevzdáním úlohy přes GitHub je třeba
+[projevit souhlas se zpracováním  osobních údajů](https://courses.fit.cvut.cz/BI-3DT/gdpr.html).
+
 Agentům tajné služby se podařil získat 3D sken hlavy Donalda Trumpa (Dále jen DT)
 a Kim Čong Una (dále jen KČU). Vaším úkolem je z mračna bodů zrekonstruovat
 a vyexportovat **vyhlazené** 3D modely DT a KČU. Výsledné modely nahrajte do repozitáře,
